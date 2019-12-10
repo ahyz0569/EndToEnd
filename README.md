@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# End to End
-=======
 # End-to-End
->>>>>>> 2e22a0e71449b5d6f097c69fc7ded1c1ad985a9c
 
 > 끝말잇기를 하며 깃 협업 배워보기!!
 
